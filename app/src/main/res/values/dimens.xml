@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_medium">20dp</dimen>
+    <dimen name="padding_large">30dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_large">30dp</dimen>
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_medium">25sp</dimen>
+    <dimen name="text_large">35sp</dimen>
+    <dimen name="height_small">40dp</dimen>
+</resources>

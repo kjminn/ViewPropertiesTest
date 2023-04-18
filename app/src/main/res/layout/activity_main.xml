@@ -34,5 +34,6 @@
         android:layout_height="wrap_content"
         android:clickable="false"
         android:text="@string/btn_5"
+        android:rotation="180"
         />
 </LinearLayout>
