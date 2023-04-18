@@ -10,4 +10,5 @@
     <color name="btn_bg1">#E1E6AF</color>
     <color name="edit_bg1">#1394A4</color>
     <color name="text1">#4E4D4D</color>
+    <color name="text_color">#28AB2D</color>
 </resources>
